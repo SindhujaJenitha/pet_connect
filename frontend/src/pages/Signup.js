@@ -58,7 +58,7 @@ const Signup = () => {
               onChange={handleChange}
               required
               className="w-full border border-gray-300 rounded-lg px-4 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500"
-              placeholder="John Doe"
+              placeholder="Your Name"
             />
           </div>
 
@@ -110,7 +110,7 @@ const Signup = () => {
               value={formData.location}
               onChange={handleChange}
               className="w-full border border-gray-300 rounded-lg px-4 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500"
-              placeholder="Mumbai"
+              placeholder="Your City"
             />
           </div>
 
