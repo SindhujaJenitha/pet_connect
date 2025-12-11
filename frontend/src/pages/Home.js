@@ -40,7 +40,7 @@ const Home = () => {
         {/* Hero Section */}
         <div className="bg-gradient-to-r from-blue-600 to-purple-600 text-white rounded-lg p-8 mb-8 text-center">
           <h1 className="text-4xl font-bold mb-4">Find Your Lost Pet 🐾</h1>
-          <p className="text-xl mb-2">Help reunite pets with their families</p>
+          <p className="text-xl mb-2">Lets Reunite the pets</p>
           <p className="text-blue-100">Search through {pets.length} posts from your community</p>
         </div>
 
